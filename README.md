@@ -1,2 +1,2 @@
 # Contact-App
-New React App
+React App
